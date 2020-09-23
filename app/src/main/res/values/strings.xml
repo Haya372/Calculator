@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Scientific caliculator</string>
+    <string name="button_0">0</string>
+    <string name="button_1">1</string>
+    <string name="button_2">2</string>
+    <string name="button_3">3</string>
+    <string name="button_4">4</string>
+    <string name="button_5">5</string>
+    <string name="button_6">6</string>
+    <string name="button_7">7</string>
+    <string name="button_8">8</string>
+    <string name="button_9">9</string>
+    <string name="button_add">+</string>
+    <string name="button_dif">-</string>
+    <string name="button_mul">×</string>
+    <string name="button_div">÷</string>
+    <string name="button_equal">=</string>
+    <string name="button_del">Del</string>
+    <string name="button_sin">sin</string>
+    <string name="button_cos">cos</string>
+    <string name="button_dot">.</string>
+    <string name="button_start">(</string>
+    <string name="button_end">)</string>
+    <string name="button_ans">Ans</string>
+    <string name="button_root">√</string>
+    <string name="button_sqare">^2</string>
+    <string name="button_clear">C</string>
+    <string name="button_e">e</string>
+    <string name="button_pi">π</string>
+    <string name="button_tan">tan</string>
+    <string name="button_log">log</string>
+    <string name="button_conma">,</string>
+    <string name="button_statistic">statistic</string>
+</resources>

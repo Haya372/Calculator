@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_sin"
+        android:title="@string/button_sin"
+        app:showAsAction="never|collapseActionView|withText" />
+    <item
+        android:id="@+id/item_cos"
+        android:title="@string/button_cos"
+        app:showAsAction="never|collapseActionView|withText" />
+    <item
+        android:id="@+id/item_tan"
+        android:title="@string/button_tan" />
+    <item
+        android:id="@+id/item_log"
+        android:title="@string/button_log" />
+    <item
+        android:id="@+id/to_statistic"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="@string/button_statistic"
+        app:showAsAction="always" />
+</menu>
